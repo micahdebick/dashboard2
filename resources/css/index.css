@@ -27,7 +27,7 @@ body {background-color: black;}
     text-align:center;
     border-radius:5px;
     margin:0 auto;
-    margin-top:15%;
+    margin-top:0px;
 }
 #clock{
     font-family: sans-serif;
