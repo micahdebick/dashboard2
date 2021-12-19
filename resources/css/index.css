@@ -20,6 +20,7 @@ a {
 body {background-color: black;}
 
 .clockdate-wrapper {
+    background-color: black;
     padding:25px;
     max-width:350px;
     width:100%;
@@ -35,6 +36,7 @@ body {background-color: black;}
     color:#fff;
 }
 #clock span {
+    background-color: black;
     color:#888;
     text-shadow:0px 0px 1px #333;
     font-size:30px;
