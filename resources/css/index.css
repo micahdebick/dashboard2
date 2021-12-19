@@ -18,8 +18,8 @@ a {
   text-decoration: none;
 }
 body {background-color: black;}
+
 .clockdate-wrapper {
-    background-color: #333;
     padding:25px;
     max-width:350px;
     width:100%;
