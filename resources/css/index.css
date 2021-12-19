@@ -18,6 +18,7 @@ a {
   text-decoration: none;
 }
 body {background-color: black;}
+body {text-align: center;}
 
 
 .clockdate-wrapper {
@@ -50,3 +51,5 @@ body {background-color: black;}
     font-family:arial,sans-serif;
     color:#fff;
 }
+
+.
