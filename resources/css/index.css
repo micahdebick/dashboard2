@@ -36,7 +36,7 @@ body {
 }
 #clock{
     font-family: sans-serif;
-    font-size:60px;
+    font-size:150px;
     text-shadow:0px 0px 1px #fff;
     color:#fff;
 }
@@ -49,8 +49,8 @@ body {
     left:-10px;
 }
 #date {
-    letter-spacing:10px;
-    font-size:14px;
+    letter-spacing:4px;
+    font-size:26px;
     font-family:arial,sans-serif;
     color:#fff;
 }
