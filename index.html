@@ -24,7 +24,7 @@
     var curDay = today.getDate();
     var curMonth = months[today.getMonth()];
     var curYear = today.getFullYear();
-    var date = curWeekDay+", "+curDay+" "+curMonth;
+    var date = curWeekDay+", "+curMonth+" "+curDay;
     document.getElementById("date").innerHTML = date;
     
     var time = setTimeout(function(){ startTime() }, 500);
